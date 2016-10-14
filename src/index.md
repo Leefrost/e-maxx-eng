@@ -21,6 +21,7 @@ especially popular in field of competitive programming.*
 ### Data Structure
 - [Fenwick Tree](./data_structures/fenwick.html)
 - [Treap](./data_structures/treap.html)
+- [Randomized heap](./data_structures/randomizedHeap.html)
 
 ### String Processing
 - [String Hashing](./string/string-hashing.html)
